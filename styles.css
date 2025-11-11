@@ -125,18 +125,18 @@ h3 {
   cursor: pointer;
   border: 0;
 
-  background-image: url("ButtonDefault.png");
+  background-image: url("https://vedmidbohdana-cmyk.github.io/article/ButtonDefault.png");
   background-size: cover;
   background-position: center;
   transition: background-image 0.2s ease;
 }
 
 .image-button:hover {
-  background-image: url("ButtonDefault.png");
+  background-image: url("https://vedmidbohdana-cmyk.github.io/article/ButtonDefault.png");
 }
 
 .image-button.active {
-  background-image: url("ButtonHover.png");
+  background-image: url("https://vedmidbohdana-cmyk.github.io/article/ButtonHover.png");
 }
 
 .social-share {
@@ -288,4 +288,5 @@ h3 {
     display: flex;
   }
 }
+
 
